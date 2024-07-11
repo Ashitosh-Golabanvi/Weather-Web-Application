@@ -1,1 +1,2 @@
-**Required Technologies:**
+**Required Softwares:**
+* Visual Studio Code
